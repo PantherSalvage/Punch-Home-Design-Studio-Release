@@ -1,0 +1,23 @@
+{
+  "repo": "punch-home-design-studio-release",
+  "product": "Punch Home Design Studio Release",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "cad",
+  "topics": [
+    "punch-home-design",
+    "landscape-planner",
+    "deck-design",
+    "home-floorplan",
+    "diy-architecture",
+    "punchhome-setup-failed-fix",
+    "how-to-install-punchhome",
+    "punchhome-windows",
+    "punchhome-desktop-2026",
+    "punchhome-desktop-package"
+  ],
+  "site": "toolix.me"
+}
